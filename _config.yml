@@ -71,20 +71,21 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/travel_world_wide_wise/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkein"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/masoud-hemmatpour-2a560049/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
-      url: "https://scholar.google.com/"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=76uTRZYAAAAJ&hl=en&oi=ao"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/mashemat"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=76uTRZYAAAAJ&hl=en&oi=ao"
+
 
 defaults:
   # _posts
