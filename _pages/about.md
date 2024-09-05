@@ -9,9 +9,13 @@ I am Masoud Hemmatpour, I am researcher at [Arctic University of Norway (UiT)](h
 
 In my exploration of RDMA performance challenges, I focused on identifying key bottlenecks and limitations that affect its efficiency in high-performance computing environments. RDMA enables direct memory access between nodes without involving the CPU, offering low-latency and high-throughput communication. However, challenges such as network congestion, hardware limitations, and lack of optimized software stacks can hinder its full potential. To address these issues, I investigated its integration into in-memory storage systems, examining how RDMA can enhance data access speed, reduce overhead, and improve scalability. This research highlighted the importance of fine-tuning memory management and network configurations to fully leverage RDMA for efficient in-memory storage solutions.
 
-![RDMA]()
+![InfiniBand](/assets/images/infiniband.png)
 
 I also compare different in-memory storage system. 
+
+
+![RDMA](/assets/images/RDMA.png)
+
 
 
 
