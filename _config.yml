@@ -16,8 +16,8 @@
 title: Masoud Hemmatpour
 email: mashemat@gmail.com
 github_username: https://github.com/mashemat
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: classic
+search: false
 
 # Build settings
 markdown: kramdown
