@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-Below is a selection of my research work. Feel free to explore the links for more information. You can find a full list of publication [here] (https://github.com/mashemat/mashemat.github.io/blob/130e1090df9d20c1827f8f4fa3816241ac582c4d/_data/pub_list.pdf).
+Below is a selection of my research work. Feel free to explore the links for more information. You can find a full list of publication [here](https://github.com/mashemat/mashemat.github.io/blob/130e1090df9d20c1827f8f4fa3816241ac582c4d/_data/pub_list.pdf).
 
 ---
 
