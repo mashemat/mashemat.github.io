@@ -38,14 +38,14 @@ underlying hardware. I was responsible for the labs and final exam. You can acce
 ## 2. **Open Source and Linux Fundamentals**   
    - **Location**: Several Universites and organizations 
    - **Description**: In this talk I described the fundamentals of open source and Linux operating systems and courses.
-   - [ٍExample](https://www.elug.ir/doku.php?id=%D8%AC%D9%84%D8%B3%D8%A7%D8%AA:%D8%AC%D9%84%D8%B3%D9%87_%D8%B5%D8%AF_%D9%88_%D8%B4%D8%B5%D8%AA_%D9%88_%D8%B3%D9%88%D9%85)
+   - [ٍExample (You might neede google translat!e)](https://www.elug.ir/doku.php?id=%D8%AC%D9%84%D8%B3%D8%A7%D8%AA:%D8%AC%D9%84%D8%B3%D9%87_%D8%B5%D8%AF_%D9%88_%D8%B4%D8%B5%D8%AA_%D9%88_%D8%B3%D9%88%D9%85)
 
 I have actively organized many talks and seminars internally and internationally at institute, bringing in experts from various fields to share their insights on cutting-edge topics. Here are a selection of talks organized by me (only ones with official announcment):
 
 ## 1. **Toward Distributed In-Network Machine Learning**   
    - **Location**: Tromso, Norway
    - **Speaker**:  Changgang Zheng, Engineering Science at the University of Oxford
-   - ***Year**: 2024 
+   - **Year**: 2024 
    - **Description**: Deploying in-network machine learning applications in programmable network devices faces challenges in scalability due to resource constraints. This presentation introduces DINC, a distributed deployment framework used to scale in-network computing models. 
    - [Link](https://uit.no/nyheter/artikkel/kortnytt?p_document_id=839951)
 
