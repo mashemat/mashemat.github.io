@@ -1,6 +1,6 @@
 ---
-permalink: /test/
-title: "Test"
+permalink: /projects/
+title: "Projects"
 ---
 
 This is a tes
