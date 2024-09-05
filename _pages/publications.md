@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-Below is a collection of my research work. Each entry includes the title, authors, and where it was published. Feel free to explore the links for more information.
+Below is a selection of my research work. Feel free to explore the links for more information. You can find a full list of publication [here](/_data/pub_list.pdf).
 
 ---
 
