@@ -6,7 +6,7 @@ Welcome to my project portfolio! Here, you'll find a list of projects I've worke
 
 ---
 
-## 1. **Power-efficient intelligent framework (European Union’s Horizon MISO project - University of Tromso)**
+### 1. **Power-efficient intelligent framework (European Union’s Horizon MISO project - University of Tromso)**
 **Description**:  
 The goal of MISO project is to develop and demonstrate an autonomous in-situ observation platform for use in hard-to-reach areas. We are developing an intelligent framework to reduce the power consumption of end nodes. Moreover, We are developing an in-network intelligent solution to detect anomalies of IoT nodes.
 
@@ -16,7 +16,7 @@ The goal of MISO project is to develop and demonstrate an autonomous in-situ obs
 
 ---
 
-## 2. **In-network computing (Simula Research Laboratory)**
+#### 2. **In-network computing (Simula Research Laboratory)**
 **Description**:  
 I explored in-network computing research directions. I have worked on several programmable network devices including FPGA and Soc based SmartNIC as well as programmable switch. I am supervising several master thesis on this field. Moreover, I have published couple of our studies.
 
@@ -80,8 +80,7 @@ In this project we were introducing new parameter (i.e., the number of data cach
 - [Live Demo](https://www.researchgate.net/publication/383057404_Change_scheduling_priority_according_to_cache_miss_rate)  
 
 
-## 8. **Synchronization on  (Research project Politecnico di Torino & École polytechnique fédérale de
-Lausanne (EPFL))**
+## 8. **Synchronization on  (Research project Politecnico di Torino & École polytechnique fédérale de Lausanne (EPFL))**
 **Description**:  
 	The goal of this project was exploiting hardware message passing feature in system-on-a-chip CPU (i.e., TILE-Gx36) in order to enhance the performnce of the non-blocking synchronization algorithm.
 
