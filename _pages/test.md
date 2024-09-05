@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /test/
+title: "Test"
 ---
 
 This is a tes
