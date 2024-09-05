@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Projects"
     url: /posts/
-  - title: "Categories"
+  - title: "Publications"
     url: /categories/
-  - title: "Tags"
+  - title: "Teaching and Talks"
     url: /tags/
-  - title: "About"
+  - title: "Thesis"
     url: /about/
