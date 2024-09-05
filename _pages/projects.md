@@ -17,11 +17,8 @@ The goal of MISO project is to develop and demonstrate an autonomous in-situ obs
 ---
 
 ##### 2. **In-network computing (Simula Research Laboratory)**
-*Description*:  
 <small>The goal of this project was exploring the in-network computing research directions. We have worked on several programmable network devices including FPGA and Soc based SmartNIC as well as programmable switch. Currently, I am supervising several master thesis on this field. Here are some of our published studies:</small>
-
-
-**Links**:  
+ 
 - [INCS](https://eng.ox.ac.uk/computing/projects/in-network-ml/incs/)  
 - [GridWatch](https://ora.ox.ac.uk/objects/uuid:cae1d460-3da1-4a5e-940e-05eb147a061c/files/svx021g97w)
 
