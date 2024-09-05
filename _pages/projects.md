@@ -38,10 +38,11 @@ Designing and implementing a Yet Another Next Generation (YANG) model to enable 
 
 ---
 
-## 4. **Project Name 4**
+## 4. **Remote Direct Memory Access (RDMA) (Research project Politecnico di Torino \& T.J. Watson IBM research center)**
 **Description**:  
-This is a brief description of the project. It could be a smaller project, side project, or a tool you've built.
-
+Investigating performance challenges of RDMA operations in InfiniBand based clusters.
+Designing and implementing an RDMA enabled in-memory key-value store.
+ 
 **Technologies Used**:  
 - PHP
 - MySQL
