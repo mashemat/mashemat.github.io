@@ -7,7 +7,7 @@ Welcome to my project portfolio! Here, you'll find a list of projects I've worke
 ---
 
 #### 1. **Power-efficient intelligent framework (European Union’s Horizon MISO project - University of Tromso)**
-**Description**:  
+*Description*:  
 The goal of MISO project is to develop and demonstrate an autonomous in-situ observation platform for use in hard-to-reach areas. We are developing an intelligent framework to reduce the power consumption of end nodes. Moreover, We are developing an in-network intelligent solution to detect anomalies of IoT nodes.
 
 
@@ -16,8 +16,8 @@ The goal of MISO project is to develop and demonstrate an autonomous in-situ obs
 
 ---
 
-#### 2. **In-network computing (Simula Research Laboratory)**
-**Description**:  
+##### 2. **In-network computing (Simula Research Laboratory)**
+*Description*:  
 <small>The goal of this project was exploring the in-network computing research directions. We have worked on several programmable network devices including FPGA and Soc based SmartNIC as well as programmable switch. Currently, I am supervising several master thesis on this field. Here are some of our published studies:</small>
 
 
