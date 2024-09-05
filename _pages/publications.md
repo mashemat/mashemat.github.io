@@ -37,8 +37,7 @@ ing the indexing, data consistency, and the communication proto-
 col. In addition, It compares traditional in-memory NoSQL with their
 RDMA-enabled counterparts.
 
-### 6. **[Communicating Efficiently on Cluster-Based Remote
-Direct Memory Access (RDMA) over InfiniBand Protocol[MDPI Applied Science 2018]](https://www.mdpi.com/2076-3417/8/11/2034)**
+### 6. **[Communicating Efficiently on Cluster-Based Remote Direct Memory Access (RDMA) over InfiniBand Protocol[MDPI Applied Science 2018]](https://www.mdpi.com/2076-3417/8/11/2034)**
 This paper evaluates communication paradigms in ex-
 isting systems and new possible paradigms. Moreover, it analyzes the
 advantages and drawbacks of each paradigm. To further expand the
