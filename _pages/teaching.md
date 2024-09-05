@@ -35,8 +35,12 @@ underlying hardware. I was responsible for the labs and final exam. You can acce
    - [Link](https://www.lincs.fr/events/talk-by-masoud-hemmatpour/)
    - [Talk](https://www.youtube.com/watch?v=CTe9rFVE1cs&t=46s)
 
+## 3. **Open Source and Linux Fundamentals**   
+   - **Location**: Several Universites and organizations 
+   - **Description**: In this talk I described the fundamentals of open source and Linux operating systems and courses.
+   - [ٍExample](https://www.elug.ir/doku.php?id=%D8%AC%D9%84%D8%B3%D8%A7%D8%AA:%D8%AC%D9%84%D8%B3%D9%87_%D8%B5%D8%AF_%D9%88_%D8%B4%D8%B5%D8%AA_%D9%88_%D8%B3%D9%88%D9%85)
 
-I have actively organized many talks and seminars internally and internationally at institute, bringing in experts from various fields to share their insights on cutting-edge topics. I ignored internal talks and here are a selection of internatioanlly talks organized by me:
+I have actively organized many talks and seminars internally and internationally at institute, bringing in experts from various fields to share their insights on cutting-edge topics. Here are a selection of talks organized by me:
 
 ## 1. **Toward Distributed In-Network Machine Learning**   
    - **Location**: Tromso, Norway
@@ -45,18 +49,7 @@ I have actively organized many talks and seminars internally and internationally
    - **Description**: Deploying in-network machine learning applications in programmable network devices faces challenges in scalability due to resource constraints. This presentation introduces DINC, a distributed deployment framework used to scale in-network computing models. 
    - [Link](https://uit.no/nyheter/artikkel/kortnytt?p_document_id=839951)
 
-## 2. **Planter: Methodologies, Tools and Applications for In-Network Machine Learning**   
-   - **Location*Simula Research Laboratory*: 
-   - **Speaker**:  Changgang Zheng, Engineering Science at the University of Oxford
-   - **Year**:  2023
-   - **Description**: This presentation elucidates in-network machine learning methodologies, solutions of each             model, the design of the Planter framework, the hybrid deployment technique, evaluations, as well as their          applications.  
-   - [Link](https://changgang-zheng.github.io/Home-Page/talks.html)
 
-## 3. ****   
-   - **Location**: 
-   - **Speaker**:  
-   - **Description**: 
-   - [Link](https://changgang-zheng.github.io/Home-Page/talks.html)
 
 
 
