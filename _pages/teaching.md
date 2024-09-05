@@ -1,6 +1,7 @@
+---
 permalink: /teaching/
 title: "Teaching and Talks"
-
+---
 
 # Teaching and Talks
 
