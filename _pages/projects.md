@@ -2,23 +2,17 @@
 permalink: /projects/
 title: "Projects"
 ---
-# My Projects
-
 Welcome to my project portfolio! Here, you'll find a list of projects I've worked on, along with descriptions, technologies used, and links to the source code or live demos.
 
 ---
 
-## 1. **Project Name 1**
+## 1. **Power-efficient intelligent in-network framework}{ (European Union’s Horizon MISO project - University of Tromso)**
 **Description**:  
-A brief description of the project. Explain the purpose of the project, key features, and any challenges you overcame.
+The goal of MISO project is to develop and demonstrate an autonomous in-situ observation platform for use in hard-to-reach areas. I develop an intelligent framework to reduce the power consumption of end nodes. Moreover, I develop an in-network intelligent solution to detect anomalies of IoT nodes.
 
-**Technologies Used**:  
-- HTML
-- CSS
-- JavaScript
 
 **Links**:  
-- [Live Demo](https://example.com/project1)  
+- [Link](https://miso.nilu.no/)  
 - [Source Code (GitHub)](https://github.com/username/project1)
 
 ---
