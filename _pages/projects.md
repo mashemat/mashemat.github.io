@@ -6,44 +6,35 @@ Welcome to my project portfolio! Here, you'll find a list of projects I've worke
 
 ---
 
-## 1. **Power-efficient intelligent in-network framework}{ (European Union’s Horizon MISO project - University of Tromso)**
+## 1. **Power-efficient intelligent framework (European Union’s Horizon MISO project - University of Tromso)**
 **Description**:  
-The goal of MISO project is to develop and demonstrate an autonomous in-situ observation platform for use in hard-to-reach areas. I develop an intelligent framework to reduce the power consumption of end nodes. Moreover, I develop an in-network intelligent solution to detect anomalies of IoT nodes.
+The goal of MISO project is to develop and demonstrate an autonomous in-situ observation platform for use in hard-to-reach areas. We are developing an intelligent framework to reduce the power consumption of end nodes. Moreover, We are developing an in-network intelligent solution to detect anomalies of IoT nodes.
 
 
 **Links**:  
-- [Link](https://miso.nilu.no/)  
-- [Source Code (GitHub)](https://github.com/username/project1)
+- [Link](https://miso.nilu.no/)
 
 ---
 
-## 2. **Project Name 2**
+## 2. **In-network computing (Simula Research Laboratory)**
 **Description**:  
-Describe the project, its functionality, and why it stands out. Mention any specific features that are noteworthy.
+I explored in-network computing research directions. I have worked on several programmable network devices including FPGA and Soc based SmartNIC as well as programmable switch. I am supervising several master thesis on this field. Moreover, I have published couple of our studies.
 
-**Technologies Used**:  
-- Python
-- Django
-- PostgreSQL
 
 **Links**:  
-- [Live Demo](https://example.com/project2)  
-- [Source Code (GitHub)](https://github.com/username/project2)
+- [INCS](https://eng.ox.ac.uk/computing/projects/in-network-ml/incs/)  
+- [GridWatch](https://ora.ox.ac.uk/objects/uuid:cae1d460-3da1-4a5e-940e-05eb147a061c/files/svx021g97w)
 
 ---
 
-## 3. **Project Name 3**
+## 3. **Network management (Linux Foundation Collaborative Project in Cisco Systems)**
 **Description**:  
-Provide a description of this project. If applicable, mention if it was part of a team effort or personal endeavor.
+Designing and implementing a Yet Another Next Generation (YANG) model to enable VPP to communicate with remote controllers such as OpenDaylight (ODL) and Network Services Orchestrator (NSO) in order to receive telemetry and push configuration.	Enabling VPP to communicate with a network routing software suite such as FRRouting (FRR).
 
-**Technologies Used**:  
-- React.js
-- Node.js
-- MongoDB
 
 **Links**:  
-- [Live Demo](https://example.com/project3)  
-- [Source Code (GitHub)](https://github.com/username/project3)
+- [hICN](https://fd.io/documentation/hicn/)
+
 
 ---
 
