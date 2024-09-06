@@ -44,27 +44,25 @@ we designined and implemented an RDMA enabled in-memory key-value store.</small>
 
 - [Live Demo](https://example.com/project5)  
 - [Prototype](https://github.com/username/project5)
-- [Survey](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2019/9610567)
 - [Nimble](https://www.researchgate.net/profile/Masoud-Hemmatpour/publication/358139568_A_kinematic-based_indoor_fall_surveillance/links/61f26c0d5779d35951da4fa8/A-kinematic-based-indoor-fall-surveillance.pdf)
-- [Nimble](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8029725)
 
 ##### 6. **Fault injection (Research Project Politecnico di Torino & University of Montpellier)**
 <small>The goal of this project was designing and implementing a framework to automatically inject faults into a real-time operating system (i.e., FreeRTOS) for specific hardware (i.e., STM32 Discovery boards).</small>
 
-- [Project]()  
+- [Report](https://www.researchgate.net/publication/383794179_Operating_systems_Fault_injection_on_scheduler_using_FreeRTOS)
 
 
 ##### 7. **Linux kernel scheduler optimization (Research Project at Politecnico di Torino)**
 <small>In this project we were introducing new parameter (i.e., the number of data cache misses) at the given time slice to the Completely Fair Scheduler (CFS) scheduler. In this way, the scheduler can penalizes processes which waste CPU cycles to handle cache miss instead of the main task.</small>
 
 
-- [Live Demo](https://www.researchgate.net/publication/383057404_Change_scheduling_priority_according_to_cache_miss_rate)  
+- [Report](https://www.researchgate.net/publication/383057404_Change_scheduling_priority_according_to_cache_miss_rate)  
 
 
 ##### 8. **Synchronization on  (Research project Politecnico di Torino & École polytechnique fédérale de Lausanne (EPFL))**
 <small>The goal of this project was exploiting hardware message passing feature in system-on-a-chip CPU (i.e., TILE-Gx36) in order to enhance the performnce of the non-blocking synchronization algorithm.</small>
 
-- [Read-Copy-Update (RCU)]()  
+- [Read-Copy-Update (RCU)](https://www.researchgate.net/publication/383793970_READ_COPY_UPDATE_SYNCHRONIZATION_IMPROVEMENT_BY_HARDWARE_MESSAGE_PASSING)  
 
 
 **Contact**:  
