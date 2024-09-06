@@ -68,6 +68,6 @@ abnormal walking pattern.
 
 ---
 
-**Note**: Links to the publications are provided where available. Please contact me for further details or access to any of the works listed.
+**Note**: Links to the publications are provided. Please contact me for further details or access to any of the works listed.
 
 
