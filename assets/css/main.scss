@@ -7,3 +7,9 @@
 @import "minimal-mistakes";
 
 // Add your custom CSS here
+
+// Increase the max-width of the content area
+.wrapper {
+  max-width: 1200px;  // Change this to whatever width you prefer
+}
+
