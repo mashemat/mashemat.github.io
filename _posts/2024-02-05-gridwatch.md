@@ -33,6 +33,7 @@ In this work, we propose  <a href="https://eng.ox.ac.uk/media/zwgjgmef/hemmatpou
   <img src="/assets/images/gridwatch.png" alt="GridWatch strategically positioned between the prosumer and the community coordinator."  width="400" height="300" />
 </p>
 
+This is the result of GridWatch.
 <p align="center">
   <img src="/assets/images/gresult.png" alt="GridWatch performance."  width="400" height="300" />
 </p>
