@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Masoud Hemmatpour"
   avatar : "/assets/images/safarii.png"
-  bio    : "I am Masoud Hemmatpour."
+  bio    : " am Masoud Hemmatpour, I am researcher at Arctic University of Norway (UiT). My research focuses on HPC interconnect."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -64,15 +64,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mashemat"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/travel_world_wide_wise/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/masoud-hemmatpour-2a560049/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=76uTRZYAAAAJ&hl=en&oi=ao"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/travel_world_wide_wise/"
 
 footer:
   links:
