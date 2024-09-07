@@ -14,7 +14,7 @@ way electricity is generated, transmitted, distributed, and consumed. Unlike tra
 
 
 <p align="center">
-  <img src="/assets/images/eattack.png" alt=" In-network cache poisoning"  width="600" height="300" />
+  <img src="/assets/images/energymodel.png" alt="P2P energy model"  width="600" height="300" />
 </p>
 
 <p align="center" style="font-size: 14px; width: 80%; margin: auto;">
@@ -22,9 +22,17 @@ We review the characteristics of bot traffic in real-world e-commerce websites a
 </p>
 
 <p align="center">
-  <img src="/assets/images/incs.png" alt="In-network Caching Shelter (INCS)"  width="400" height="300" />
+  <img src="/assets/images/gattack.png" alt="Malicious user in the system"  width="400" height="300" />
 </p>
 
  <p align="center" style="font-size: 14px; width: 80%; margin: auto;">
 In this work, we propose  <a href="https://eng.ox.ac.uk/media/zwgjgmef/hemmatpour2024incs.pdf">In-network Caching Shelter (INCS)</a>, a mitigation solution for attacks on in-network caching. To safeguard the caching system, an in-network machine learning framework (i.e., Planter) is used to classify incoming requests, detecting and acting on bot-generated queries. INCS runs on a programmable network target, such as a Data Processing Unit (DPU) or SmartNIC using Behavioral Model Version 2 (BMV2) or Open vSwitch (OvS).
+</p>
+
+<p align="center">
+  <img src="/assets/images/gridwatch.png" alt="GridWatch strategically positioned between the prosumer and the community coordinator."  width="400" height="300" />
+</p>
+
+<p align="center">
+  <img src="/assets/images/gresult.png" alt="GridWatch performance."  width="400" height="300" />
 </p>
