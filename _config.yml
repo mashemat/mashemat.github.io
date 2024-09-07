@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Masoud Hemmatpour"
   avatar : "/assets/images/safarii.png"
-  bio    : " am Masoud Hemmatpour, I am researcher at Arctic University of Norway (UiT). My research focuses on HPC interconnect."
+  bio    : " I am Masoud Hemmatpour, a researcher at Arctic University of Norway (UiT). My research focuses on HPC interconnects, with a particular emphasis on emerging hardware and optimizing memory access in distributed architectures."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
