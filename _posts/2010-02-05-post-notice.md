@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "GridWatch"
 categories:
   - Blog
 tags:
@@ -7,62 +7,24 @@ tags:
   - notice
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+<p align="center" style="font-size: 14px; width: 80%; margin: auto;">
+Traditional power grids generally carry power from a few central generators to a large number of users or customers. A Smart Grid represents a transformative evolution in the
+way electricity is generated, transmitted, distributed, and consumed. Unlike traditional power grids, a Smart Grid leverages cutting-edge technologies to enhance efficiency, reliability, and sustainability across the entire energy ecosystem. From these distributed energy resources emerged a new form of energy trading mechanism known as Peer-to-Peer (P2P) energy trading. 
+</p>
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
+<p align="center">
+  <img src="/assets/images/eattack.png" alt=" In-network cache poisoning"  width="600" height="300" />
+</p>
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
+<p align="center" style="font-size: 14px; width: 80%; margin: auto;">
+We review the characteristics of bot traffic in real-world e-commerce websites and analyze how these characteristics can bring vulnerability while using in-network caching in the backend. We outline how the presence of bot traffic can lead to higher cache misses of legitimate users. As depicted, regular users typically request popular items, leading to the storage of these items within the in-network caching system. However, malicious bots follow a different pattern, actively soliciting less popular items and attempting to inject counterfeit popular items into the caching system. The introduction of this injection results in the removal of popular accessed items, leading to a notable rise in data access latency for normal clients.
+</p>
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
+<p align="center">
+  <img src="/assets/images/incs.png" alt="In-network Caching Shelter (INCS)"  width="400" height="300" />
+</p>
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
-
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
-
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
-
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
-
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
-
-{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
-
-Or you could skip the capture and stick with straight HTML.
-
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
-
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
+ <p align="center" style="font-size: 14px; width: 80%; margin: auto;">
+In this work, we propose  <a href="https://eng.ox.ac.uk/media/zwgjgmef/hemmatpour2024incs.pdf">In-network Caching Shelter (INCS)</a>, a mitigation solution for attacks on in-network caching. To safeguard the caching system, an in-network machine learning framework (i.e., Planter) is used to classify incoming requests, detecting and acting on bot-generated queries. INCS runs on a programmable network target, such as a Data Processing Unit (DPU) or SmartNIC using Behavioral Model Version 2 (BMV2) or Open vSwitch (OvS).
+</p>
