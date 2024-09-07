@@ -7,10 +7,6 @@ I am Masoud Hemmatpour, I am researcher at [Arctic University of Norway (UiT)](h
 
 I am deeply interested in exploring universities worldwide, as I believe that visiting different campuses will not only broaden my perspective on academic opportunities but also immerse me in diverse cultures and environments. I have had the opportunity to visit several highly ranked institutions, including École Polytechnique Fédérale de Lausanne (EPFL), Purdue University, University of California Davis, Stanford, ETH Zurich, Berkeley, Oxford, and UCLA. My research interests focus on in-network computing and High Performance Computing (HPC) interconnect, particularly in the areas of concurrent programming and dynamic memory management in parallel and distributed systems. 
 
-Recently, I am studying PCIe network as an emerging 
-![PCIe](/assets/images/pcie.png)
-
-
 ![In-network computing](/assets/images/inc.png)
 
 
