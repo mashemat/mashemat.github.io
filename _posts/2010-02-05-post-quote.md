@@ -13,7 +13,7 @@ Among industries, e-commerce sees a wide range of bot attacks. E-commerce ranks 
 
 
 <p align="center">
-  <img src="/assets/images/infiniband.png" alt="InfiniBand Network"  width="600" height="300" />
+  <img src="/assets/images/eattack.png" alt=" In-network cache poisoning"  width="600" height="300" />
 </p>
 
 <p align="center" style="font-size: 14px; width: 80%; margin: auto;">
@@ -21,9 +21,9 @@ We review the characteristics of bot traffic in real-world e-commerce websites a
 </p>
 
 <p align="center">
-  <img src="/assets/images/RDMA.png" alt="Host perspective"  width="400" height="300" />
+  <img src="/assets/images/incs.png" alt="In-network Caching Shelter (INCS)"  width="400" height="300" />
 </p>
 
  <p align="center" style="font-size: 14px; width: 80%; margin: auto;">
-In this work, we propose In-network Caching Shelter (INCS), a mitigation solution for attacks on in-network caching. To safeguard the caching system, an in-network machine learning framework (i.e., Planter) is used to classify incoming requests, detecting and acting on bot-generated queries. INCS runs on a programmable network target, such as a Data Processing Unit (DPU) or SmartNIC using Behavioral Model Version 2 (BMV2) or Open vSwitch (OvS). <a href="https://ieeexplore.ieee.org/abstract/document/9119827">Analyzing in-memory nosql landscape</a>.
+In this work, we propose  <a href="https://eng.ox.ac.uk/media/zwgjgmef/hemmatpour2024incs.pdf">In-network Caching Shelter (INCS)</a>, a mitigation solution for attacks on in-network caching. To safeguard the caching system, an in-network machine learning framework (i.e., Planter) is used to classify incoming requests, detecting and acting on bot-generated queries. INCS runs on a programmable network target, such as a Data Processing Unit (DPU) or SmartNIC using Behavioral Model Version 2 (BMV2) or Open vSwitch (OvS).
 </p>
