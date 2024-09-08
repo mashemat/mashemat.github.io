@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
-Welcome to my project portfolio! Here, you'll find a list of projects I've worked on, along with descriptions and links to the publication, source code or live demos.
+Here, you'll find a list of projects I've worked on, along with descriptions and links to the publication, source code or live demos.
 
 ---
 
