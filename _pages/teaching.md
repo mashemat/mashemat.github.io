@@ -18,7 +18,7 @@ Below is a list of my teaching experiences and invited talks.
    - **Year**: 2 Academic Years (2017,2018) 
    - **Description**: The course provides an overview of operating system (OS) architecture and its associated development frameworks,
 focusing on Unix-based operating systems. This involves examining the internal structure of the OS concerning the
-underlying hardware. I was responsible for the labs and final exam. You can access to the material of the course [here.](https://github.com/mashemat/Courses/tree/master/Operating%20System)
+underlying hardware. You can access to the material of the course [here.](https://github.com/mashemat/Courses/tree/master/Operating%20System)
 
 ### 3. **Linux fundamentals and network services**  
    - **Institution**: Fanavaran Pasargad J 
