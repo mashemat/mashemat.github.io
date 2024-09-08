@@ -58,9 +58,6 @@ author:
   avatar : "/assets/images/safarii.png"
   bio    : "I am Masoud Hemmatpour, a computer science researcher specializing in high-performance computing (HPC) interconnects. My research primarily focuses on emerging hardware technologies and optimizing memory access in distributed architectures to enhance computational efficiency."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://en.uit.no/ansatte/person?p_document_id=809882"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mashemat"
