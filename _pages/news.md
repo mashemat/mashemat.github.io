@@ -82,7 +82,7 @@ You can find all available, ongoing, and completed theses and internships. Feel 
   - **Location**: Politecnico di Torino
   - [Link](https://www.researchgate.net/publication/358500882_Politecnico_di_Torino_Microsoft_Azure_InfiniBand_Configuration_technical_report_Advisor_Masoud_Hemmatpour_system_Programming_course_project)
 
-### 8. Fault injection on scheduler usingFreeRTOS
+### 8. Fault injection on scheduler using FreeRTOS
   - **Description**: In this study, we injected faults into a real-time operating system and assessed their impact on the system's behavior.
   - **Location**: Politecnico di Torino
   - [Link](https://www.researchgate.net/publication/383794179_Operating_systems_Fault_injection_on_scheduler_using_FreeRTOS)
