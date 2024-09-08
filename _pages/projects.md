@@ -2,8 +2,9 @@
 permalink: /projects/
 title: "Projects"
 ---
+<p align="center" style="font-size: 14px; width: 80%; margin: auto;">
 Welcome to my project portfolio! Here, you'll find a list of projects I've worked on, along with descriptions and links to the publication, source code or live demos.
-
+</p>
 ---
 
 ##### 1. **Power-efficient intelligent framework (European Union’s Horizon MISO project - University of Tromso)**
@@ -30,7 +31,7 @@ Welcome to my project portfolio! Here, you'll find a list of projects I've worke
 
 ---
 
-##### 4. **Remote Direct Memory Access (RDMA) (Research project Politecnico di Torino \& T.J. Watson IBM research center)**
+##### 4. **Remote Direct Memory Access (RDMA) (Research project Politecnico di Torino & T.J. Watson IBM research center)**
 <small>The goal of this project was investigating performance challenges of RDMA operations in InfiniBand based clusters. Then,
 we designined and implemented an RDMA enabled in-memory key-value store.</small>
  
@@ -42,8 +43,8 @@ we designined and implemented an RDMA enabled in-memory key-value store.</small>
 ##### 5. **Health care system (OPportunities for active and healthy LONgevity (OPLON) project)**
 <small>The goal of this project was designing and implementing a holistic approach to detect an abnormal gait in order to avoid an unintentional fall and in case of a fall detection reduces injuries and notifies care givers.</small>
 
-- [Live Demo](https://example.com/project5)  
-- [Prototype](https://github.com/username/project5)
+- [Live Demo](https://www.youtube.com/watch?v=sSHnJjh9cuU)  
+- [Prototype](https://www.youtube.com/watch?v=hFUb9xeWKbA)
 - [Nimble](https://www.researchgate.net/profile/Masoud-Hemmatpour/publication/358139568_A_kinematic-based_indoor_fall_surveillance/links/61f26c0d5779d35951da4fa8/A-kinematic-based-indoor-fall-surveillance.pdf)
 
 ##### 6. **Fault injection (Research Project Politecnico di Torino & University of Montpellier)**
