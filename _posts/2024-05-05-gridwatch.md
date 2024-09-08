@@ -14,7 +14,7 @@ way electricity is generated, transmitted, distributed, and consumed. Unlike tra
 
 
 <p align="center">
-  <img src="/assets/images/energymodel.png" alt="P2P energy model"  width="500" height="400" />
+  <img src="/assets/images/energymodel.png" alt="P2P energy model"  width="450" height="350" />
 </p>
 
 <p align="center" style="font-size: 14px; width: 80%; margin: auto;">
@@ -23,7 +23,7 @@ their data to the HEM unit via a Zigbee network. The HEM unit shares household c
 </p>
 
 <p align="center">
-  <img src="/assets/images/gattack.png" alt="Malicious user in the system"  width="400" height="300" />
+  <img src="/assets/images/gattack.png" alt="Malicious user in the system"  width="500" height="400" />
 </p>
 
 <p align="center" style="font-size: 14px; width: 80%; margin: auto;">
@@ -43,5 +43,5 @@ GridWatch is trained to differentiate attack events from normal ones with varyin
 </p>
 
 <p align="center">
-  <img src="/assets/images/gresult.png" alt="GridWatch performance."  width="400" height="300" />
+  <img src="/assets/images/gresult.png" alt="GridWatch performance."  width="500" height="400" />
 </p>
