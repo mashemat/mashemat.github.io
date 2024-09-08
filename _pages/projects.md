@@ -2,9 +2,9 @@
 permalink: /projects/
 title: "Projects"
 ---
-<p align="center" style="font-size: 14px; width: 80%; margin: auto;">
+
 Welcome to my project portfolio! Here, you'll find a list of projects I've worked on, along with descriptions and links to the publication, source code or live demos.
-</p>
+
 ---
 
 ##### 1. **Power-efficient intelligent framework (European Union’s Horizon MISO project - University of Tromso)**
