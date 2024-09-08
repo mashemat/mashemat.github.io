@@ -10,11 +10,7 @@ Below is a selection of my research work. Feel free to explore the links for mor
 Decentralized energy transactions within untrusted and non-transparent energy markets in modern smart grids expose vulnerabilities and are susceptible to attacks. To address this threat, this paper proposes GridWatch, an effective real-time in-network intelligent framework to detect false data injection attacks.
 
 ### 2. **[E-commerce bot traffic: In-network impact, detection, and mitigation[ICIN2024]](https://ieeexplore.ieee.org/abstract/document/10494459)**
-This explores a vulnerability of in-network caching to
-bots traffic, showing it can significantly degrade performance. To mit-
-igate the effect of bots traffic it introduces In-network Caching Shel-
-ter (INCS), an in-network machine learning solution implemented on
-NVIDIA BlueField-2 DPU.
+This explores a vulnerability of in-network caching to bots traffic, showing it can significantly degrade performance. To mitigate the effect of bots traffic it introduces In-network Caching Shelter (INCS), an in-network machine learning solution implemented on NVIDIA BlueField-2 DPU.
 
 ### 3. **[ In-network monitoring strategies for HPC cloud[AINA2024]](https://link.springer.com/chapter/10.1007/978-3-031-57942-4_35)**
 Network monitoring process can introduce additional
