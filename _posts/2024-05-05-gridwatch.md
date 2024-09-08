@@ -35,7 +35,7 @@ GridWatch is trained to differentiate attack events from normal ones with varyin
 </p>
 
 <p align="center">
-  <img src="/assets/images/gridwatch.png" alt="GridWatch strategically positioned between the prosumer and the community coordinator."  width="400" height="300" />
+  <img src="/assets/images/gridwatch.png" alt="GridWatch strategically positioned between the prosumer and the community coordinator."  width="500" height="400" />
 </p>
 
 <p align="center" style="font-size: 14px; width: 80%; margin: auto;">
