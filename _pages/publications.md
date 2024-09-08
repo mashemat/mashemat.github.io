@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-Below is a selection of my research work. Feel free to explore the links for more information. You can find a full list of publication [t](/asset/publist.pdf) <a href="/asset/publist.pdf" target="_blank">here</a>. <a href="/asset/publist.pdf" download>Download the PDF</a>
+Below is a selection of my research work. Feel free to explore the links for more information. You can find a full list of publication [t](/assets/publist.pdf) <a href="/assets/publist.pdf" target="_blank">here</a>. <a href="/assets/publist.pdf" download>Download the PDF</a>
 
 
 ---
