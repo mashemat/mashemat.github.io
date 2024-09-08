@@ -2,6 +2,7 @@
 permalink: /news/
 title: "News"
 ---
+Here, you can find all available, ongoing, and completed theses and internships. Feel free to contact me if you're interested in any of the topics.
 
 ## Available thesis/internship
 
