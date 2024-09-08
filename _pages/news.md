@@ -39,7 +39,7 @@ title: "News"
    - **Location**: University of Tromso 
     
 ### 6. **Path Planning ML Models for Autonomous UAVs to detect hot spot**   
-   - **Description**: In this thesis, we are modeling the path of a real-world problem to reduce the energy consumption of a UAV under wind.
+   - **Description**: In this thesis, we are modeling the path of a UAV to detect hot spot.
    - **Location**: University of Tromso
 
 
