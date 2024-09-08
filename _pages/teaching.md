@@ -2,7 +2,7 @@
 permalink: /teaching/
 title: "Teaching and Talks"
 ---
-Below is a list of my teaching experiences and invited talks.
+Below is a list of my teaching and invited talks.
 
 ## Teaching
 
