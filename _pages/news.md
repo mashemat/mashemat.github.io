@@ -26,7 +26,7 @@ You can find all available, ongoing, and completed theses and internships. Feel 
    - **Location**: University of Oslo (UiO)
    - [Link](https://www.mn.uio.no/ifi/studier/masteroppgaver/nd/in-network-acceleration-of-big-data-processing.html)
 
-### 3. **Experimenting PCIe Interconnec**   
+### 3. **Experimenting PCIe interconnect**   
    - **Description**: In this thesis we are experimenting PCIe networks and evaluating in specific applications. 
    - **Location**: University of Oslo (UiO)
    - 
