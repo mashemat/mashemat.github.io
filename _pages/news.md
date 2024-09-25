@@ -62,7 +62,7 @@ You can find all available, ongoing, and completed theses and internships. Feel 
    - **Location**: Simula Research Laboratory
    - [Link](https://link.springer.com/chapter/10.1007/978-3-031-57942-4_35)
 
-### 4. **Accelerating ResilientDB Fabric via RDMAs & SGX, Shubham Pandey**   
+### 4. **Accelerating ResilientDB Fabric via RDMAs & SGX**   
    - **Description**: In this thesis, we investigated the use of RDMA to enhance the performance of an existing distributed transaction system.
    - **Location**: University of California Davis
    - [Link](https://expolab.resilientdb.com/)
