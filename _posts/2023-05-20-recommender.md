@@ -1,5 +1,5 @@
 ---
-title: "Multi-machine algorithm matrix completion (recommender)"
+title: "Multi-machine algorithm matrix completion"
 categories:
   - Blog
 tags:
