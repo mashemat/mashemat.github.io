@@ -31,15 +31,15 @@ You can find all available, ongoing, and completed theses and internships. Feel 
 ### 2. **Energy Efficiency of TinyML inference on tiny devices**   
    - **Description**: In this thesis, we are implementing ML models into Tiny devices with limited resources.
       The main goal of this thesis is to optimize ML model and reduce energy consumption of ML models on devices with resource constraint.
-   - **Location**: University of Tromso     
+   - **Location**: University of Tromsø     
 
 ### 3. **Path Planning ML Models for Autonomous UAV**   
    - **Description**: In this thesis, we are modeling the path of a real-world problem to reduce the energy consumption of a UAV under wind.
-   - **Location**: University of Tromso 
+   - **Location**: University of Tromsø 
     
 ### 4. **Path Planning ML Models for Autonomous UAVs to detect hot spot**   
    - **Description**: In this thesis, we are modeling the path of a UAV to detect hot spot.
-   - **Location**: University of Tromso
+   - **Location**: University of Tromsø
 
 
 ### 5. **Architecting In-network memory access with FPGA-based SmartNIC for programmable data centers**   
