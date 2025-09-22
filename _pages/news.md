@@ -12,6 +12,10 @@ You can find all available, ongoing, and completed theses and internships. Feel 
    - **Location**: University of Oslo (UiO)
    - [Link](https://www.mn.uio.no/ifi/studier/masteroppgaver/nd/in-network-acceleration-of-big-data-processing.html)
 
+### 2. **Speeding up distributed matrix completion**   
+   - **Description**: In this thesis, the candidate is expected to improve existing recomender system in two aspects: (1) a better division of work that can lead to a higher ratio of computation versus data communication (the higher the better for the computing speed); (2) an improved parallel implementation that avoids blindly passing data to a random processor.
+   - **Location**: University of Oslo (UiO)
+   - [Link](https://www.mn.uio.no/ifi/studier/masteroppgaver/scml/distributed-matrix-completion.html)
 
 ## Ongoing thesis
 
