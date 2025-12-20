@@ -3,20 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-I am Masoud Hemmatpour, a researcher in computer science. I received the M.S. degree in Computer and Communication Network Engineering and the Ph.D. degree in Control and Computer Engineering both from [Politecnico di Torino](https://www.polito.it/), Italy, in 2015, and 2019, respectively. Currently, I am research associate  in [Arctic University of Norway (UiT)](https://uit.no/startsida). My recent work focuses on integrating AI into various hardware platforms, including programmable network devices and tiny devices. I leverage emerging hardware technologies in my research to optimize memory access, enhance performance, and improve energy efficiency. You can find my full CV [here](/assets/resume.pdf).
+I am **Masoud Hemmatpour**, a researcher/engineer in computer science. I received my **M.S. degree in Computer and Communication Network Engineering** and my **Ph.D. degree in Control and Computer Engineering** from the [Politecnico di Torino](https://www.polito.it/), Italy, in **2015** and **2019**, respectively. I am currently a **Research Associate** at the [Arctic University of Norway (UiT)](https://uit.no/startsida).
 
-I am deeply interested in exploring research institutes worldwide, as I believe that visiting different institutes will not only broaden my perspective on academic opportunities but also immerse me in diverse cultures and environments. I have had the opportunity to visit several institutes, including École Polytechnique Fédérale de Lausanne (EPFL), Purdue University, University of California Davis, Stanford, ETH Zurich, Berkeley, UCLA, and Oxford.
+My research focuses on **integrating artificial intelligence into hardware systems**, including **programmable network devices** and **resource-constrained (tiny) devices**. I leverage emerging hardware technologies to **optimize memory access**, **improve performance**, and **enhance energy efficiency**, with the goal of enabling intelligent systems across the computing continuum—from cloud and network infrastructures to edge and low-power devices. You can find my full CV [here](/assets/resume.pdf).
 
-Apart from my research, one of my biggest passions is traveling. Exploring new places allows me to connect with diverse cultures and gain insights into the unique traditions and perspectives of people worldwide. Each trip is a chance to broaden my horizons and deepen my appreciation for global diversity. For a glimpse into my adventures and the amazing destinations I visit, be sure to check out my [Instagram](https://www.instagram.com/travel_world_wide_wise/) page, where I share photos and stories from my travels.
+I am strongly motivated by **international research collaboration** and continuously seek opportunities to engage with research institutes worldwide. Visiting different institutes allows me to broaden my academic perspective while gaining exposure to diverse cultures and research environments. I have had the opportunity to visit and collaborate with several institutions, including **École Polytechnique Fédérale de Lausanne (EPFL)**, **Purdue University**, **University of California, Davis**, **Stanford University**, **ETH Zurich**, **UC Berkeley**, **UCLA**, and **Oxford University**.
 
-
-
-
-
-
-
-
-
-
-
-
+Beyond research, one of my greatest passions is **traveling**. Exploring new places allows me to connect with diverse cultures and gain insights into different traditions and ways of thinking. Each journey broadens my horizons and deepens my appreciation for global diversity. You can follow my travels and adventures on my [Instagram](https://www.instagram.com/travel_world_wide_wise/) page, where I share photos and stories from around the world.
