@@ -11,8 +11,6 @@ I am strongly motivated by **international research collaboration** and continuo
 
 Beyond research, one of my greatest passions is **traveling**. Exploring new places allows me to connect with diverse cultures and gain insights into different traditions and ways of thinking. Each journey broadens my horizons and deepens my appreciation for global diversity. You can follow my travels and adventures on my [Instagram](https://www.instagram.com/travel_world_wide_wise/) page, where I share photos and stories from around the world.
 
-<hr/>
-
 <h2 style="text-align:center;">Moments & Travels</h2>
 
 <div style="
@@ -22,15 +20,13 @@ Beyond research, one of my greatest passions is **traveling**. Exploring new pla
   max-width: 1000px;
   margin: 30px auto;
 ">
-  <img src="/assets/images/about/photo1.jpg" alt="Travel photo 1" />
-  <img src="/assets/images/about/photo2.jpg" alt="Travel photo 2" />
-  <img src="/assets/images/about/photo3.jpg" alt="Travel photo 3" />
-  <img src="/assets/images/about/photo4.jpg" alt="Travel photo 4" />
-  <img src="/assets/images/about/photo5.jpg" alt="Travel photo 5" />
-  <img src="/assets/images/about/photo6.jpg" alt="Travel photo 6" />
-  <img src="/assets/images/about/photo7.jpg" alt="Travel photo 7" />
-  <img src="/assets/images/about/photo8.jpg" alt="Travel photo 8" />
-  <img src="/assets/images/about/photo9.jpg" alt="Travel photo 9" />
-  <img src="/assets/images/about/photo10.jpg" alt="Travel photo 10" />
+  <img src="/assets/images/1.jpeg" alt="Travel photo 1" />
+  <img src="/assets/images/2.jpeg" alt="Travel photo 2" />
+  <img src="/assets/images/3.jpeg" alt="Travel photo 3" />
+  <img src="/assets/images/4.jpeg" alt="Travel photo 4" />
+  <img src="/assets/images/5.jpeg" alt="Travel photo 5" />
+  <img src="/assets/images/6.jpeg" alt="Travel photo 6" />
+  <img src="/assets/images/7.jpeg" alt="Travel photo 7" />
+  <img src="/assets/images/8.jpeg" alt="Travel photo 8" />
 </div>
 
