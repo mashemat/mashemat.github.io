@@ -29,7 +29,6 @@ Beyond research, one of my greatest passions is **traveling**. Exploring new pla
   <img src="/assets/images/6.jpeg" alt="Photo 6" class="about-photo" />
   <img src="/assets/images/7.jpeg" alt="Photo 7" class="about-photo" />
   <img src="/assets/images/8.jpeg" alt="Photo 8" class="about-photo" />
-  <img src="/assets/images/9.jpeg" alt="Photo 9" class="about-photo" />
 </div>
 
 <style>
