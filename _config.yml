@@ -60,10 +60,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mashemat"
-    - label: "Stack Overflow"
-      icon: "fab fa-stack-overflow"
-      url: "https://stackoverflow.com/users/6117071/masoud"      
+      url: "https://github.com/mashemat" 
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/masoud-hemmatpour-2a560049/"
