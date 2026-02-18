@@ -11,8 +11,8 @@ Here, you'll find a list of projects I've worked on, along with descriptions and
 <small>The goal of MISO project is to develop and demonstrate an autonomous in-situ observation platform for use in hard-to-reach areas. We are developing an intelligent framework to reduce the power consumption of end nodes. Moreover, We are developing an in-network intelligent solution to detect anomalies of IoT nodes.</small>
 
 - [MISO](https://miso.nilu.no/)
-- [Automating the TinyML Pipeline]([https://miso.nilu.no/](https://nva.sikt.no/registration/0198f4c261b4-d99e312b-c6a3-4c36-8a09-0d8e5133dfce))
-- [Path Planning]([https://miso.nilu.no/](https://nva.sikt.no/registration/0198f4c2653f-f5393b0e-211e-4fc4-8bd7-aa5fc72b3ccd))
+- [Automating the TinyML Pipeline](https://miso.nilu.no/](https://nva.sikt.no/registration/0198f4c261b4-d99e312b-c6a3-4c36-8a09-0d8e5133dfce)
+- [Path Planning](https://miso.nilu.no/](https://nva.sikt.no/registration/0198f4c2653f-f5393b0e-211e-4fc4-8bd7-aa5fc72b3ccd)
 
 
 ---
