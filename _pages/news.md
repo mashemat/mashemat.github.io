@@ -31,7 +31,7 @@ You can find all available, ongoing, and completed theses and internships. Feel 
 ### 1. **Experimenting PCIe interconnect**   
    - **Description**: In this thesis we are experimenting PCIe networks and evaluating in specific applications. 
    - **Location**: University of Oslo (UiO)
-   - 
+     
 ### 2. **Automating the TinyML Pipeline: From Model Compression to Edge Deployment**   
    - **Description**: In this thesis, we are implementing ML models into Tiny devices with limited resources.
       The main goal of this thesis is to optimize ML model and reduce energy consumption of ML models on devices with resource constraint.
