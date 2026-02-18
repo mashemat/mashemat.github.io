@@ -32,14 +32,17 @@ You can find all available, ongoing, and completed theses and internships. Feel 
    - **Description**: In this thesis we are experimenting PCIe networks and evaluating in specific applications. 
    - **Location**: University of Oslo (UiO)
    - 
-### 2. **Energy Efficiency of TinyML inference on tiny devices**   
+### 2. **Automating the TinyML Pipeline: From Model Compression to Edge Deployment**   
    - **Description**: In this thesis, we are implementing ML models into Tiny devices with limited resources.
       The main goal of this thesis is to optimize ML model and reduce energy consumption of ML models on devices with resource constraint.
-   - **Location**: University of Tromsø     
+   - **Location**: University of Tromsø
+   - [Link](https://nva.sikt.no/registration/0198f4c261b4-d99e312b-c6a3-4c36-8a09-0d8e5133dfce)     
 
-### 3. **Path Planning ML Models for Autonomous UAV**   
+### 3. **A Simulated UAV System for Greenhouse Gas Emission Source Localization Using Dispersion Modeling**   
    - **Description**: In this thesis, we are modeling the path of a real-world problem to reduce the energy consumption of a UAV under wind.
    - **Location**: University of Tromsø 
+   - [Link](https://nva.sikt.no/registration/0198f4c2653f-f5393b0e-211e-4fc4-8bd7-aa5fc72b3ccd)
+
     
 ### 4. **Path Planning ML Models for Autonomous UAVs to detect hot spot**   
    - **Description**: In this thesis, we are modeling the path of a UAV to detect hot spot.
@@ -49,7 +52,7 @@ You can find all available, ongoing, and completed theses and internships. Feel 
 ### 5. **Architecting In-network memory access with FPGA-based SmartNIC for programmable data centers**   
    - **Description**: In this thesis, we evaluate the perfomance various memory designs on FPGA-based SmartNICs.
    - **Location**: University of Oslo
-
+   -[Link](https://ui.adsabs.harvard.edu/abs/2025arXiv250704001Z/abstract)
 
 ### 6. **Evaluating BlueField-2 SmartNIC**   
    - **Description**: During this internship, we assessed the performance of the BlueField SmartNIC.
