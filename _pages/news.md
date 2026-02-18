@@ -40,7 +40,7 @@ You can find all available, ongoing, and completed theses and internships. Feel 
 
 ### 3. **A Simulated UAV System for Greenhouse Gas Emission Source Localization Using Dispersion Modeling**   
    - **Description**: In this thesis, we are modeling the path of a real-world problem to reduce the energy consumption of a UAV under wind.
-   - **Location**: University of Tromsø 
+   - **Location**: University of Tromsø
    - [Link](https://nva.sikt.no/registration/0198f4c2653f-f5393b0e-211e-4fc4-8bd7-aa5fc72b3ccd)
 
     
