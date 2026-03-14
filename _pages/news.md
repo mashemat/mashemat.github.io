@@ -52,7 +52,7 @@ You can find all available, ongoing, and completed theses and internships. Feel 
 ### 5. **Architecting In-network memory access with FPGA-based SmartNIC for programmable data centers**   
    - **Description**: In this thesis, we evaluate the perfomance various memory designs on FPGA-based SmartNICs.
    - **Location**: University of Oslo
-   - [Link](https://ui.adsabs.harvard.edu/abs/2025arXiv250704001Z/abstract)
+   - [Link](https://nva.sikt.no/registration/019c8fb1f783-41968fa7-475a-49fe-bbf1-fa2e51187865)
 
 ### 6. **Evaluating BlueField-2 SmartNIC**   
    - **Description**: During this internship, we assessed the performance of the BlueField SmartNIC.
