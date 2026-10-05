@@ -17,6 +17,23 @@ You can find all available, ongoing, and completed theses and internships. Feel 
    - **Location**: University of Oslo (UiO)
    - [Link](https://www.mn.uio.no/ifi/studier/masteroppgaver/scml/distributed-matrix-completion.html)
 
+### 3. **Speeding up distributed matrix completion**   
+   - **Description**: In this thesis, the candidate is expected to improve existing recomender system in two aspects: (1) a better division of work that can lead to a higher ratio of computation versus data communication (the higher the better for the computing speed); (2) an improved parallel implementation that avoids blindly passing data to a random processor.
+   - **Location**: University of Oslo (UiO)
+   - [Link](https://www.mn.uio.no/ifi/studier/masteroppgaver/scml/distributed-matrix-completion.html)
+
+### 4. **Understanding the impact of communication software faults on distributed AI systems**   
+   - **Description**: This master’s thesis investigates how communication software and failures affect distributed AI and HPC systems. The project focuses on MPI and high-performance communication, exploring realistic communication faults and analyzing their impact on application performance, reliability, and recovery. The goal is to contribute toward more resilient distributed AI/HPC systems.
+   - **Location**: University of Oslo (UiO)
+   - [Link](https://www.mn.uio.no/ifi/english/studies/masters-projects/hpc/understanding-the-impact-of-communication-software.html)
+
+### 5. **Vulnerability analysis of distributed AI systems with respect to network faults**   
+   - **Description**: This master’s thesis investigates the vulnerability of distributed AI systems to network failures, with a particular focus on InfiniBand and high-performance AI infrastructure. The project explores realistic network faults and analyzes their impact on distributed AI workloads, performance, reliability, and recovery, contributing toward more resilient AI systems.
+   - **Location**: University of Oslo (UiO)
+   - [Link](https://www.mn.uio.no/ifi/english/studies/masters-projects/hpc/vulnerability-analysis-of-distributed-ai-systems-w.html)
+
+
+
 ## Ongoing thesis
 
 ### 1. **Predictive Data Access in DPU-Accelerated Key–Value Stores**   
