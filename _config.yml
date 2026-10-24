@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Masoud Hemmatpour"
-  avatar : "/assets/images/safarii.png"
+  avatar : "/assets/images/me.png"
   bio    : "I am Masoud Hemmatpour, a computer science researcher and engineer specializing in system research and high-performance computing (HPC) interconnects. My recent work focuses on integrating AI into various hardware platforms, including programmable network devices and tiny devices. I leverage emerging hardware technologies in my research to optimize memory access, enhance performance, and improve energy efficiency."
   links:
     - label: "GitHub"
