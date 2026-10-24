@@ -27,6 +27,16 @@ You can find all available, ongoing, and completed theses and internships. Feel 
    - **Location**: University of Oslo (UiO)
    - [Link](https://www.mn.uio.no/ifi/english/studies/masters-projects/hpc/vulnerability-analysis-of-distributed-ai-systems-w.html)
 
+### 5. **Scalable RISC-V DPU Cluster on AMD Xilinx Alveo U280**
+   - **Description**: This master’s thesis investigates the design and development of a scalable cluster of RISC-V-based Data Processing Units (DPUs) using AMD Xilinx Alveo U280 FPGA accelerators. The project explores hardware acceleration, inter-DPU communication, and distributed computing architectures, focusing on scalability, performance, and communication efficiency in high-performance computing systems.
+   - **Location**: Simula Research Laboratory, Norway
+   - [Link](https://www.simula.no/education/masters-students/masters-projects/scalable-risc-v-dpu-cluster-amd-xilinx-alveo-u280)
+
+### 6. **PCI Express Support for BeeGFS**
+   - **Description**: This master’s thesis investigates the integration of PCI Express (PCIe) communication into BeeGFS, a parallel distributed file system used in high-performance computing. The project explores PCIe-based data transfers as an alternative to conventional network communication, focusing on improving data access performance, reducing communication overhead, and enhancing storage efficiency in HPC environments.
+   - **Location**: Simula Research Laboratory, Norway
+   - [Link](https://www.simula.no/education/masters-students/masters-projects/pci-express-support-beegfs)
+
 
 ## Ongoing thesis
 
