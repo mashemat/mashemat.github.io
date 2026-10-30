@@ -37,6 +37,11 @@ You can find all available, ongoing, and completed theses and internships. Feel 
    - **Location**: Simula Research Laboratory, Norway
    - [Link](https://www.simula.no/education/masters-students/masters-projects/pci-express-support-beegfs)
 
+### 7. **Mitigating Instruction Set Incompatibilities in Heterogeneous HPC Systems**
+   - **Description**: This master’s thesis explores techniques to address instruction set incompatibilities in heterogeneous HPC systems. It investigates approaches such as illegal instruction trapping, dynamic binary translation, and universal binaries to improve software portability and compatibility across different processor architectures.
+   - **Location**: Simula Research Laboratory, Norway
+   - [Link](https://www.simula.no/education/masters-students/masters-projects/mitigating-instruction-set-incompatibilities)
+
 
 ## Ongoing thesis
 
@@ -45,6 +50,21 @@ You can find all available, ongoing, and completed theses and internships. Feel 
    - **Location**: University of Oslo (UiO) 
    - [Link](https://www.mn.uio.no/ifi/studier/masteroppgaver/nd/in-network-acceleration-of-distributed-in-memory-m.html)
 
+### 2. **Understanding the impact of communication software faults on distributed AI systems**   
+   - **Description**: This master’s thesis investigates how communication software and failures affect distributed AI and HPC systems. The project focuses on MPI and high-performance communication, exploring realistic communication faults and analyzing their impact on application performance, reliability, and recovery. The goal is to contribute toward more resilient distributed AI/HPC systems.
+   - **Location**: University of Oslo (UiO)
+   - [Link](https://www.mn.uio.no/ifi/english/studies/masters-projects/hpc/understanding-the-impact-of-communication-software.html)
+
+### 3. **In-network Acceleration of Big Data Processing**   
+   - **Description**: In this thesis, we are investigating SmartNIC which is equipped with an Arm processor
+      to enhance the performance of Bigdata processing/accessing.
+   - **Location**: University of Oslo (UiO)
+   - [Link](https://www.mn.uio.no/ifi/studier/masteroppgaver/nd/in-network-acceleration-of-big-data-processing.html)
+
+### 4. **PCI Express Support for BeeGFS**
+   - **Description**: This master’s thesis investigates the integration of PCI Express (PCIe) communication into BeeGFS, a parallel distributed file system used in high-performance computing. The project explores PCIe-based data transfers as an alternative to conventional network communication, focusing on improving data access performance, reducing communication overhead, and enhancing storage efficiency in HPC environments.
+   - **Location**: Simula Research Laboratory, Norway
+   - [Link](https://www.simula.no/education/masters-students/masters-projects/pci-express-support-beegfs)
 
 ## Completed
 
