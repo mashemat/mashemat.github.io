@@ -28,14 +28,20 @@ underlying hardware. You can access to the material of the course [here.](https:
 
 ## Talks
 
-## 1. **From Data Networks to Intelligent Networks: In-Network Computing’s Promise**   
+## 1. **Artificial Intelligence – What Does It Mean for You?**
+   - **Location**: Oslo, Norway
+   - **Event**: Vestre Aker Frivilligsentral – Møteplass Vinderen, November 5, 2026
+   - **Description**: In this talk, delivered in Norwegian, I introduced the fundamental concepts of artificial intelligence and explored how AI is transforming our everyday lives. I discussed the evolution of AI, explained how machines learn, and presented practical applications, including AI-based fall detection and modern generative AI tools. Additionally, I explored future developments in AI, including humanoid robots, and engaged the audience in an interactive discussion about the opportunities and challenges of artificial intelligence.
+   - [Link](https://ioslovest.no/hendelse?Id=2787467)
+
+## 2. **From Data Networks to Intelligent Networks: In-Network Computing’s Promise**   
    - **Location**: Paris, France  
    - **Event**: Laboratory of Information, Networking and Communication Sciences (LINCS)  
    - **Description**: In this talk, I reviewed the hardware and software technologies accessible for in-network computing. Moreover, I outlined the obstacles encountered in in-network computing and delved into the opportunities that this technology presents. Additionally, I explored a selection of applications that leverage in-network.
    - [Link](https://www.lincs.fr/events/talk-by-masoud-hemmatpour/)
    - [Talk](https://www.youtube.com/watch?v=CTe9rFVE1cs&t=46s)
 
-## 2. **Open Source and Linux Fundamentals**   
+## 3. **Open Source and Linux Fundamentals**   
    - **Location**: Several Universites and organizations 
    - **Description**: In this talk I described the fundamentals of open source and Linux operating systems and courses.
    - [ٍExample (You might neede google translat!e)](https://www.elug.ir/doku.php?id=%D8%AC%D9%84%D8%B3%D8%A7%D8%AA:%D8%AC%D9%84%D8%B3%D9%87_%D8%B5%D8%AF_%D9%88_%D8%B4%D8%B5%D8%AA_%D9%88_%D8%B3%D9%88%D9%85)
