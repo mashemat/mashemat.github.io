@@ -9,6 +9,13 @@ My research focuses on integrating artificial intelligence into hardware systems
 
 I am strongly motivated by international research collaboration and continuously seek opportunities to engage with research institutes worldwide. Visiting different institutes allows me to broaden my academic perspective while gaining exposure to diverse cultures and research environments. I have had the opportunity to visit and collaborate with several institutions, including École Polytechnique Fédérale de Lausanne (EPFL), Purdue University, University of California, Davis, Stanford University, ETH Zurich, UC Berkeley, UCLA, and Oxford University.
 
+I am passionate about bridging theoretical foundations with practical applications, transforming innovative ideas into efficient and scalable computing solutions. My expertise spans artificial intelligence, high-performance computing, distributed systems, and advanced networking technologies, with applications in healthcare, environmental monitoring, cybersecurity, and intelligent infrastructure. The infographic below provides a visual overview of my technical expertise, core specializations, and selected research projects.
+
+
+<p align="center">
+  <img src="/assets/images/technical.png" alt="Technical Expertise" width="550">
+</p>
+
 Beyond research, one of my greatest passions is traveling. Exploring new places allows me to connect with diverse cultures and gain insights into different traditions and ways of thinking. Each journey broadens my horizons and deepens my appreciation for global diversity. You can follow my travels and adventures on my [Instagram](https://www.instagram.com/travel_world_wide_wise/) page, where I share photos and stories from around the world.
 
 
