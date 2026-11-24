@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am Masoud Hemmatpour, a researcher/engineer in computer science. I received my M.S. degree in Computer and Communication Network Engineering and my Ph.D. degree in Control and Computer Engineering from the [Politecnico di Torino](https://www.polito.it/), Italy, in 2015 and 2019, respectively.
+I am Masoud Hemmatpour, a researcher/engineer in computer science. I received my M.S. degree in Computer and Communication Network Engineering and my Ph.D. degree in Control and Computer Engineering from the Politecnico di Torino, Italy, in 2015 and 2019, respectively.
 
 My research focuses on integrating artificial intelligence into hardware systems, including programmable network devices and resource-constrained (tiny) devices. I leverage emerging hardware technologies to optimize memory access, improve performance, and enhance energy efficiency, with the goal of enabling intelligent systems across the computing continuum—from cloud and network infrastructures to edge and low-power devices. You can find my full CV [here](/assets/resume.pdf).
 
